@@ -45,8 +45,8 @@ und die LED hat geleuchtet.
 - Bauteile müssen immer aus der Schaltung genommen werden, bevor man sie misst.
 
 - ## Fotos
-![Aufbau der Schaltung](aufbau.jpg)
-![Messung des Widerstands mit dem Multimeter](widerstand_messung.jpg)
-![Vergleich des Farbcodes mit dem Tabellenbuch](farbcode_vergleich.jpg)
+![Aufbau der Schaltung](aufbau)
+![Messung des Widerstands mit dem Multimeter](widerstand_messung)
+![Vergleich des Farbcodes mit dem Tabellenbuch](farbcode_vergleich)
 
 📄 [Ausführliche Dokumentation (PDF)](01_LED_Vorwiderstand.pdf)
