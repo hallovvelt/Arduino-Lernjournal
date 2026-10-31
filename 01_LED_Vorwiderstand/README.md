@@ -43,3 +43,10 @@ und die LED hat geleuchtet.
   Durchlassspannung: U_ges = U_R + U_F.
 - Die LED hat einen Plus- und einen Minuspol (Anode und Kathode).
 - Bauteile müssen immer aus der Schaltung genommen werden, bevor man sie misst.
+
+- ## Fotos
+![Aufbau der Schaltung](aufbau.jpg)
+![Messung des Widerstands mit dem Multimeter](widerstand_messung.jpg)
+![Vergleich des Farbcodes mit dem Tabellenbuch](farbcode_vergleich.jpg)
+
+📄 [Ausführliche Dokumentation (PDF)](01_LED_Vorwiderstand.pdf)
