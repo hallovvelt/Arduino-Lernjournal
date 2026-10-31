@@ -115,3 +115,9 @@ ist oft ein Tippfehler.
   Welche Farbe leuchtet, hängt von der Verdrahtung ab.
 - Mit PWM kann man die Helligkeit steuern, ohne die Spannung zu verändern.
 - Eine `for`-Schleife wiederholt Befehle eine bestimmte Anzahl von Malen.
+
+- ## Fotos
+<img src="rgb_lila.jpeg" width="400" alt="RGB-LED leuchtet lila">
+
+📄 [Ausführliche Dokumentation (PDF)](02_RGB-LED_mit_PWM.pdf)
+💾 [Arduino-Code herunterladen](02_rgb_farbverlauf.ino)
