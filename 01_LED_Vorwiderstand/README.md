@@ -44,9 +44,9 @@ und die LED hat geleuchtet.
 - Die LED hat einen Plus- und einen Minuspol (Anode und Kathode).
 - Bauteile müssen immer aus der Schaltung genommen werden, bevor man sie misst.
 
-- ## Fotos
-![Aufbau der Schaltung](aufbau.jpeg)
-![Messung des Widerstands mit dem Multimeter](widerstand_messung.jpeg)
-![Vergleich des Farbcodes mit dem Tabellenbuch](farbcode_vergleich.jpeg)
+## Fotos
+<img src="aufbau.jpeg" width="400" alt="Aufbau der Schaltung">
+<img src="widerstand_messung.jpeg" width="400" alt="Messung des Widerstands">
+<img src="farbcode_vergleich.jpeg" width="400" alt="Vergleich des Farbcodes">
 
-📄 [Ausführliche Dokumentation (PDF)](01_LED_Vorwiderstand.pdf)
+📄 [Ausführliche Dokumentation (PDF)](01_LED_mit_Vorwiderstand.pdf)
