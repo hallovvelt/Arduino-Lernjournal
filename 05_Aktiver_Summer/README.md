@@ -56,4 +56,4 @@ ununterbrochen einen Ton. Danach habe ich die Fehler korrigiert.
   mit dem Code erzeugen (`tone()`).
 
 ## Foto
-<img src="aufbau.jpeg" width="400" alt="Aufbau mit aktivem Summer">
+<img src="aufbau02.jpeg" width="400" alt="Aufbau mit aktivem Summer">
