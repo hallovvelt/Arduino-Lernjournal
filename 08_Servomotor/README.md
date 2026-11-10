@@ -66,4 +66,6 @@ Das war mir zu langsam. Mit `delay(10)` dauert sie nur 1,8 s.
 - Der Servo braucht etwa 2 ms pro Grad. Wenn die Wartezeit kürzer ist,
   erreicht er seine Position nicht.
 
+  📄 [Aufgabenblatt mit Berechnungen und Diagrammen (PDF)](08_Servo.pdf)
+
 <img src="aufbau.jpeg" width="400">
