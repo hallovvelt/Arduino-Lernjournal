@@ -71,4 +71,4 @@ diese Verbindung als LOW, und die LED leuchtet nicht. Wenn der Pin nicht mit
 GND verbunden ist, zieht der interne Pull-up-Widerstand den Pin auf HIGH,
 und die LED leuchtet.
 
-<img src="WhatsApp Image 2026-11-10 at 10.35.36" width="400">
+<img src="aufbau.jpeg" width="400">
