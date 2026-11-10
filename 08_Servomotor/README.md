@@ -65,3 +65,5 @@ Das war mir zu langsam. Mit `delay(10)` dauert sie nur 1,8 s.
 - `delay` in einer Schleife wirkt bei jedem Durchlauf.
 - Der Servo braucht etwa 2 ms pro Grad. Wenn die Wartezeit kürzer ist,
   erreicht er seine Position nicht.
+
+<img src="aufbau.jpeg" width="400">
